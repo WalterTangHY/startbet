@@ -1,0 +1,12 @@
+
+.fg-main { background: url("img/bg.png") top center; background-size: cover; background-attachment: fixed; overflow:hidden; }
+.fg-main a { text-underline: none;}
+.fg-logo { text-align: center; margin: 15px auto;}
+.fg-nav { line-height: 60px; text-align: center; }
+.fg-nav-bg { margin: 10px auto; width: 80%; height: 62px; background: url("img/nav-bg.png"); opacity: 1; }
+
+.fg-games { width: 80%; min-height: 480px; margin: 20px auto; border-radius: 10px; padding: 2%; background: url("img/nav-bg.png"); overflow:hidden; }
+.fg-games img { width: 100px; height: 100px; }
+.fg-games a { float: left; display: block; margin: 20px; }
+.box-fishing { -moz-box-shadow: 0px 0px 20px #C74F63, 0px 0px 20px #C74F63; -webkit-box-shadow: 0px 0px 20px #C74F63, 0px 0px 20px #C74F63; box-shadow: 0px 0px 20px #C74F63, 0px 0px 20px #C74F63; }
+.box-slots { -moz-box-shadow: 0px 0px 20px #C74F63, 0px 0px 20px #177FC5; -webkit-box-shadow: 0px 0px 20px #C74F63, 0px 0px 20px #C74F63; box-shadow: 0px 0px 20px #177FC5, 0px 0px 20px #177FC5; }

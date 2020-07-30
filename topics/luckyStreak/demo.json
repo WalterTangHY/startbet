@@ -1,0 +1,1721 @@
+[
+  {
+    "id": "2",
+    "name": "Baccarat 1",
+    "type": "Baccarat",
+    "isOpen": true,
+    "launchUrl": "https://integ.livepbt.com?PlayerName={playerName}&OperatorName={operatorName}&AuthCode={authCode}&GameId=2&GameType=Baccarat",
+    "providerId": 0,
+    "dealer": {
+      "name": "Charlotte",
+      "avatarUrl": "https://integ.luckystreaklive.com/images/d/charlotte-baccarat.jpg",
+      "thumbnailAvatarURL": "https://integ.luckystreaklive.com/images/d/charlotte-baccarat-thumb.jpg"
+    },
+    "openHours": [
+      {
+        "open": "16:14:00",
+        "close": "17:14:00"
+      }
+    ],
+    "limitGroups": [
+      {
+        "id": "5cf536b38b9022d13e2463a9",
+        "name": "HOH Baccarat Group Limit",
+        "limits": [
+          {
+            "type": "100",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "101",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 10.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 5.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 5.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "102",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 10.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 5.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 5.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "103",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 800.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 400.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "104",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 10.0,
+                "max": 800.0
+              },
+              {
+                "currency": "EUR",
+                "min": 10.0,
+                "max": 500.0
+              },
+              {
+                "currency": "GBP",
+                "min": 5.0,
+                "max": 400.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "105",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 400.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 200.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "106",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 400.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 200.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "107",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 400.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 200.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "108",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 10.0,
+                "max": 500.0
+              },
+              {
+                "currency": "EUR",
+                "min": 5.0,
+                "max": 400.0
+              },
+              {
+                "currency": "GBP",
+                "min": 5.0,
+                "max": 200.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "blackjackDetails": {
+      "numberOfSeats": 0,
+      "occupiedSeats": 0,
+      "occupiedSeatIds": null
+    },
+    "rouletteStatistics": {
+      "latestResults": null
+    },
+    "baccaratStatistics": [],
+    "statistics": [],
+    "details": null
+  },
+  {
+    "id": "3",
+    "name": "Roulette 1",
+    "type": "Roulette",
+    "isOpen": true,
+    "launchUrl": "https://integ.livepbt.com?PlayerName={playerName}&OperatorName={operatorName}&AuthCode={authCode}&GameId=3&GameType=Roulette",
+    "providerId": 0,
+    "dealer": {
+      "name": "Charlotte",
+      "avatarUrl": "https://integ.luckystreaklive.com/images/d/charlotte-roulette.jpg",
+      "thumbnailAvatarURL": "https://integ.luckystreaklive.com/images/d/charlotte-roulette-thumb.jpg"
+    },
+    "openHours": [
+      {
+        "open": "11:40:00",
+        "close": "10:40:00"
+      }
+    ],
+    "limitGroups": [
+      {
+        "id": "5cf536ab8b9022d13e246360",
+        "name": "HOH Roulette Group Limit",
+        "limits": [
+          {
+            "type": "300",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 5000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 4000.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 4000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "301",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "302",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 10.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 10.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 5.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "303",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 10.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 10.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 5.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "304",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "305",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "306",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "307",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 800.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "blackjackDetails": {
+      "numberOfSeats": 0,
+      "occupiedSeats": 0,
+      "occupiedSeatIds": null
+    },
+    "rouletteStatistics": {
+      "latestResults": [
+        20,
+        28,
+        27,
+        21,
+        30,
+        26,
+        29,
+        0,
+        1,
+        4
+      ]
+    },
+    "baccaratStatistics": [],
+    "statistics": {
+      "latestResults": [
+        20,
+        28,
+        27,
+        21,
+        30,
+        26,
+        29,
+        0,
+        1,
+        4
+      ]
+    },
+    "details": null
+  },
+  {
+    "id": "4",
+    "name": "BlackJack 1",
+    "type": "Blackjack",
+    "isOpen": true,
+    "launchUrl": "https://integ.livepbt.com?PlayerName={playerName}&OperatorName={operatorName}&AuthCode={authCode}&GameId=4&GameType=Blackjack",
+    "providerId": 0,
+    "dealer": {
+      "name": "Charlotte",
+      "avatarUrl": "https://integ.luckystreaklive.com/images/d/charlotte-blackjack.jpg",
+      "thumbnailAvatarURL": "https://integ.luckystreaklive.com/images/d/charlotte-blackjack-thumb.jpg"
+    },
+    "openHours": [
+      {
+        "open": "08:04:00",
+        "close": "09:04:00"
+      }
+    ],
+    "limitGroups": [
+      {
+        "id": "5cf536b98b9022d13e2463c3",
+        "name": "HOH Blackjack Group Limit",
+        "limits": [
+          {
+            "type": "200",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "FEU",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "203",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 200.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "FEU",
+                "min": 1.0,
+                "max": 400.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "204",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 500.0
+              },
+              {
+                "currency": "GBP",
+                "min": 1.0,
+                "max": 200.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "FEU",
+                "min": 1.0,
+                "max": 400.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "blackjackDetails": {
+      "numberOfSeats": 7,
+      "occupiedSeats": 0,
+      "occupiedSeatIds": []
+    },
+    "rouletteStatistics": {
+      "latestResults": null
+    },
+    "baccaratStatistics": [],
+    "statistics": null,
+    "details": {
+      "numberOfSeats": 7,
+      "occupiedSeats": 0,
+      "occupiedSeatIds": []
+    }
+  },
+  {
+    "id": "20",
+    "name": "ExternalRoulette 1",
+    "type": "ExternalRoulette",
+    "isOpen": true,
+    "launchUrl": "https://integ.livepbt.com?PlayerName={playerName}&OperatorName={operatorName}&AuthCode={authCode}&GameId=20&GameType=ExternalRoulette",
+    "providerId": 0,
+    "dealer": {
+      "name": "Charlotte",
+      "avatarUrl": "https://integ.luckystreaklive.com/images/d/charlotte-externalroulette.jpg",
+      "thumbnailAvatarURL": "https://integ.luckystreaklive.com/images/d/charlotte-externalroulette-thumb.jpg"
+    },
+    "openHours": [
+      {
+        "open": "16:28:00",
+        "close": "16:28:00"
+      }
+    ],
+    "limitGroups": [
+      {
+        "id": "5cf536a48b9022d13e246344",
+        "name": "HOH ExternalRoulette Group Limit",
+        "limits": [
+          {
+            "type": "300",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "301",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "302",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "303",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "304",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "305",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "306",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          },
+          {
+            "type": "307",
+            "values": [
+              {
+                "currency": "USD",
+                "min": 1.0,
+                "max": 1000.0
+              },
+              {
+                "currency": "EUR",
+                "min": 1.0,
+                "max": 2000.0
+              },
+              {
+                "currency": "MYR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "THB",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "VND",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "IDR",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "TRY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "CNY",
+                "min": 1.0,
+                "max": 10000.0
+              },
+              {
+                "currency": "SGD",
+                "min": 1.0,
+                "max": 10000.0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "blackjackDetails": {
+      "numberOfSeats": 0,
+      "occupiedSeats": 0,
+      "occupiedSeatIds": null
+    },
+    "rouletteStatistics": {
+      "latestResults": [
+        1,
+        22,
+        23,
+        4,
+        19,
+        32,
+        4,
+        11,
+        8,
+        33
+      ]
+    },
+    "baccaratStatistics": [],
+    "statistics": {
+      "latestResults": [
+        1,
+        22,
+        23,
+        4,
+        19,
+        32,
+        4,
+        11,
+        8,
+        33
+      ]
+    },
+    "details": null
+  }
+]

@@ -1,0 +1,260 @@
+
+.luckystreak img {
+	display: inline-block;
+	border: none;
+}
+
+.luckystreak ul {
+	list-style-type: none; margin: 0; padding: 0;
+}
+
+.luckystreak li {
+	display: inline;
+	overflow: hidden;
+}
+
+.game-wrapper {
+	display: inline-block;
+	border-radius: 20px;
+	box-shadow: 0 0 0 2px #6c4c0b, 0 0 3px 4px #a38f46;
+	transform: skewX(-2deg);
+	min-height: 280px;
+	position: relative;
+	margin: 25px 15px;
+	width: 348px;
+	min-width: 200px;
+}
+
+.game-wrapper .game-header {
+	height: 70px;
+	width: 100%;
+	background: transparent url("img/game_headings.png") no-repeat scroll 0 0;
+	position: absolute;
+	top: -12px;
+}
+
+.game-wrapper .game-header {
+	height: 70px;
+	width: 100%;
+	background: transparent url("img/game_headings.png") no-repeat 18px 0;
+}
+
+.game-wrapper.baccarat .game-header {
+	background-position-y: -180px;
+}
+
+.game-wrapper.roulette .game-header,
+.game-wrapper.externalroulette .game-header {
+	background-position-y: -82px;
+}
+
+.game-wrapper.blackjack .game-header {
+	background-position-y: 0;
+}
+
+.game-wrapper .game-header .bet-limits {
+	padding-top: 50px;
+	text-align: center;
+}
+
+.game-wrapper .dealer img {
+	padding-top: 50px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	min-height: 200px;
+	width: 100%;
+	background-color: #0e0e0e;
+	-webkit-mask-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 23%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+	mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 23%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+}
+
+.game-wrapper .dealer > h3 {
+	border-radius: 5px;
+	padding: 5px 10px;
+	color: #000000;
+	font-size: 12px;
+	position: absolute;
+	top: 60px;
+	left: 0;
+	transform: translateX(-20%);
+
+	background: rgb(237, 232, 154); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(237, 232, 154, 1) 0%, rgba(104, 77, 2, 1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(237, 232, 154, 1) 0%, rgba(104, 77, 2, 1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(237, 232, 154, 1) 0%, rgba(104, 77, 2, 1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ede89a', endColorstr='#684d02', GradientType=0); /* IE6-9 */
+}
+
+.game-wrapper .dealer > .dealer-languages {
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+
+.game-wrapper .content {
+	position: absolute;
+	right: 15px;
+	top: 60px;
+}
+
+.game-wrapper .content h3 {
+	font-size: 14px;
+	font-weight: 200;
+	padding-bottom: 5px;
+}
+
+.game-wrapper .limit-groups {
+	display: none;
+	padding: 10px 30px;
+	position: absolute;
+	bottom: 30px;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color: rgba(9, 9, 9, 0.7);
+}
+
+.game-wrapper .limit-groups h3 {
+	font-weight: 200;
+	padding-bottom: 5px;
+}
+
+.game-wrapper .limit-groups a:hover {
+	color: #a38f46;
+}
+
+.game-wrapper .game-footer button {
+	text-decoration: none;
+	color: #333;
+	cursor: pointer;
+	padding: 10px 30px;
+	border: 2px solid #3f2e01;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 12px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: -20px;
+	background: transparent rgb(237, 232, 154); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(237, 232, 154, 1) 0%, rgba(104, 77, 2, 1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(237, 232, 154, 1) 0%, rgba(104, 77, 2, 1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(237, 232, 154, 1) 0%, rgba(104, 77, 2, 1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ede89a', endColorstr='#684d02', GradientType=0); /* IE6-9 */
+}
+
+.game-wrapper .game-footer button:hover {
+	background: rgb(104, 77, 2);
+	background: -moz-linear-gradient(top, rgba(104, 77, 2, 1) 0%, rgba(237, 232, 154, 1) 100%);
+	background: -webkit-linear-gradient(top, rgba(104, 77, 2, 1) 0%, rgba(237, 232, 154, 1) 100%);
+	background: linear-gradient(to bottom, rgba(104, 77, 2, 1) 0%, rgba(237, 232, 154, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#684d02', endColorstr='#ede89a', GradientType=0);
+}
+
+.main-footer {
+	padding: 30px 0;
+	text-align: center;
+	color: #888888;
+	background: transparent url("img/footer_bg.png") repeat-x scroll left -14px;
+}
+
+.main-footer img {
+	padding-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+	.game-wrapper { width: 80%; margin: 0 10% 15% 10%; }
+}
+/* baccarat results classes */
+.baccarat .content > div,
+#baccaratBigRoad {
+	position: relative;
+	min-height: 60px;
+}
+
+.box_1 {
+	width: 10px;
+	height: 10px;
+	border: 2px solid red;
+	border-radius: 5px;
+	position: absolute;
+}
+
+.box_2 {
+	width: 10px;
+	height: 10px;
+	border: 2px solid blue;
+	border-radius: 5px;
+	position: absolute;
+}
+
+.box_tie:after {
+	content: "\'";
+	color: green;
+	font-weight: bold;
+}
+
+/* Roulette results classes */
+.last-numbers {
+	margin-left: 30px;
+	width: 56px;
+}
+.last-numbers li {
+	display: inline-block;
+	border-radius: 3px;
+	width: 26px;
+	height: 24px;
+	line-height: 24px;
+	text-align: center;
+	color: #fff;
+	margin: 1px;
+	font-size: 14px;
+}
+
+.last-numbers li.red-br {
+	background-color: red;
+}
+
+.last-numbers li.dark-br {
+	box-shadow: inset 0 0 1px 1px white;
+	background-color: black;
+}
+
+.last-numbers li.green-br {
+	background-color: green;
+}
+
+/* Blackjack results classes */
+.sets-aveable {
+	margin-top: 10px;
+	max-width: 125px;
+}
+.sets-aveable li {
+	display: block;
+	width: 26px;
+	height: 24px;
+	float: right;
+	margin: 2px;
+	margin-bottom: 15px;
+	line-height: 28px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000;
+	text-align: center;
+}
+.sets-aveable li a {
+	display: block;
+	color: #000;
+	border-radius: 3px;
+	background-color: #444444;
+}
+.sets-aveable li.active a {
+	background-color: #ffffff;
+	color: #000;
+}
+.sets-aveable li.active:hover a {
+	background-color: #888888;
+	color: #fff;
+}
+.sets-aveable li:hover a {
+	color: #fff;
+}
